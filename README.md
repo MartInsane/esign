@@ -8,7 +8,7 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 <img width="1920" height="1080" alt="esign app icon" src="https://github.com/user-attachments/assets/0c9ad746-923b-40dc-a340-a9596574c0be" />
 
 
-> [!DISCLAIMER]
+> [!WARNING]
 > Apps installed via sideload certificates remain functional **as long as the signing certificate is valid**. Certificates are typically valid for up to **1 year**, but may be revoked earlier by Apple, which can cause the apps to stop opening. In this case, download another version of E-Sign or a new certificate.
 > \
 > \
@@ -25,7 +25,7 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 
 # I. Installing the DNS profile
 
-1. On your iOS/iPadOS device, download the [DNS profile](https://github.com/MartInsane/esign/releases/tag/DNS). It is mandatory to install it because without this profile, you won't be able to open E-Sign and your IPAs.
+1. On your iOS/iPadOS device, download the [DNS profile](https://github.com/MartInsane/esign/releases/tag/DNS) (called esign-dns-profile.mobileconfig). It is mandatory to install it because without this profile, you won't be able to open E-Sign and your IPAs.
    
 2. Allow GitHub to download the DNS profile:
 
@@ -39,4 +39,9 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 
 # II. Installing the certificates
 
-1. On your iOS/iPadOS device, install the [E-Sign certificates](https://github.com/MartInsane/esign/releases/tag/Certs). It is mandatory to download it because without these certificates, you cannot install IPAs with E-Sign. (Read disclaimers)
+1. On your iOS/iPadOS device, install the [E-Sign certificates](https://github.com/MartInsane/esign/releases/tag/Certs) (called ESignCert.zip). It is mandatory to download it because without these certificates, you cannot install IPAs with E-Sign. (Read the Warning tab)
+
+2. Click on "Download":
+<img width="600" height="255" alt="certs download" src="https://github.com/user-attachments/assets/f0cfda6b-ebe4-4fab-89f3-5bd9438c95ec" />
+
+
