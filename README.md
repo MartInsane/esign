@@ -23,7 +23,13 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 - An internet connection
 
 
-# A. Installing the DNS profile
+# I. Installing the DNS profile
 
 1. On your iOS/iPadOS device, download the [DNS profile](/dnsvip.mobileconfig). Is it mandatory to install it because without this profile, you won't be able to open E-Sign and your IPAs.
-2. 
+   
+2. Allow GitHub to download the DNS profile:
+
+<p align="center">
+<img width="600" height="399" alt="dns profile allow" src="https://github.com/user-attachments/assets/5bf0ee5c-cb2c-4679-a741-6d9bfce52986" />
+
+3. After that, go to: "Settings > General > VPN & Device Management", and click on 
