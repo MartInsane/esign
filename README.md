@@ -32,4 +32,6 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 <p align="center">
 <img width="600" height="399" alt="dns profile allow" src="https://github.com/user-attachments/assets/5bf0ee5c-cb2c-4679-a741-6d9bfce52986" />
 
-3. After that, go to: "Settings > General > VPN & Device Management", and click on 
+3. After that, go to: "Settings > General > VPN & Device Management", and click on "DNS VIP".
+
+4. Click on "Install", enter your passcode, then confirm the installation again. 
