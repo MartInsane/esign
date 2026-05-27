@@ -23,3 +23,6 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 - An internet connection
 
 
+# A. Installing the DNS profile
+
+1. On your iOS/iPadOS device, download the 
