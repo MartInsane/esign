@@ -8,11 +8,18 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 <img width="1920" height="1080" alt="esign app icon" src="https://github.com/user-attachments/assets/0c9ad746-923b-40dc-a340-a9596574c0be" />
 
 
+> [!WARNING]
+> Apps installed via sideload certificates remain functional **as long as the signing certificate is valid**. Certificates are typically valid for up to **1 year**, but may be revoked earlier by Apple, which can cause the apps to stop opening. In this case, download another version of E-Sign or a new certificate.
+> \
+> \
+> Be careful of which **IPA file** you are installing on your device. Even though E-Sign is not a **malware**, the IPAs you sign can be.
+
+> [!NOTE]
+> This is not a jailbreaking method but a sideloading one!
+
+
 ## Requirements
 - iOS/iPadOS device
 - An internet connection
 
-## Quick Start
-1. Navigate to https://github.com/geode-sdk/ios-launcher/releases/latest, if you are not **jailbroken**, download the latest **ipa** file. If you wish to use the tweak and have **TrollStore**, download the latest **tipa** file.
-2. Install the launcher by following the [Installation Guide](./INSTALL.md). You can also access this guide by going in to the **INSTALL.md** file in this repository.
-3. Enjoy using Geode!
+
