@@ -1,4 +1,4 @@
-# Installing E-Sing on your device
+# Installing E-Sign on your device
 Here you will find each version of E-Sign which is currently available.
 If there is an issue while trying to install E-Sign, contact me on Discord: `prod.nitrxm`
 
