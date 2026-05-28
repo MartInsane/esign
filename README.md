@@ -53,10 +53,10 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 
 Next, we can finally download E-Sign!
 
-1. Install one of the **E-Sign** versions you can find down below.
+1. From your iOS/iPadOS device, install one of the **E-Sign** versions you can find down below.
 
 > [!WARNING]
-> You have to rememebr which **version** of E-Sign you have installed on your device. For example, if I installed "**E-Sign Aramco Services Company**", I have to remember that the version of this app is "**Aramco Services Company**".
+> You have to remember which **version** of E-Sign you have installed on your device. For example, if I installed "**E-Sign Aramco Services Company**", I have to remember that the version of this app is "**Aramco Services Company**".
 
 > [!TIP]
 > While trying to open the E-Sign you just installed, you might see a pop-up saying:
@@ -67,3 +67,6 @@ Next, we can finally download E-Sign!
 > This pop-up is normal, you're going to see it at the next step.
 >
 > Also if you tried installing all the versions and if all of them said "Unable to Install", well you cannot do the whole method for the moment 😭 You can try reinstalling it in a few hours/days.
+
+## E-Sign Versions:
+- E-Sign Beijing Xibei Longzhimeng Restaurant Management Co., Ltd. // [Download here](https://api.khoindvn.io.vn/i4dHNr)
