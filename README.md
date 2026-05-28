@@ -60,10 +60,10 @@ Next, we can finally download E-Sign!
 
 > [!TIP]
 > While trying to open the E-Sign you just installed, you might see a pop-up saying:
-> "Unable to Install E-Sign - This app cannot be installed because its integrity could not be verified.".
+> "**Unable to Install E-Sign** - This app cannot be installed because its integrity could not be verified.".
 >
 > If this pop-up appears on your device, delete your E-Sign version and try to install another one until it says:
-> "Untrusted Enterprise Developer".
+> "**Untrusted Enterprise Developer**".
 > This pop-up is normal, you're going to see it at the next step.
 >
 > Also if you tried installing all the versions and if all of them said "Unable to Install", well you cannot do the whole method for the moment 😭 You can try reinstalling it in a few hours/days.
