@@ -52,3 +52,18 @@ Do you want to install **any IPA file** on your iOS device **without PC**? You a
 # III. Installing E-Sign
 
 Next, we can finally download E-Sign!
+
+1. Install one of the **E-Sign** versions you can find down below.
+
+> [!WARNING]
+> You have to rememebr which **version** of E-Sign you have installed on your device. For example, if I installed "**E-Sign Aramco Services Company**", I have to remember that the version of this app is "**Aramco Services Company**".
+
+> [!TIP]
+> While trying to open the E-Sign you just installed, you might see a pop-up saying:
+> "Unable to Install E-Sign - This app cannot be installed because its integrity could not be verified.".
+>
+> If this pop-up appears on your device, delete your E-Sign version and try to install another one until it says:
+> "Untrusted Enterprise Developer".
+> This pop-up is normal, you're going to see it at the next step.
+>
+> Also if you tried installing all the versions and if all of them said "Unable to Install", well you cannot do the whole method for the moment 😭 You can try reinstalling it in a few hours/days.
